@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.1
+-- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 14 Nov 2023 pada 22.26
--- Versi server: 10.4.28-MariaDB
--- Versi PHP: 8.0.28
+-- Waktu pembuatan: 16 Nov 2023 pada 18.52
+-- Versi server: 10.4.27-MariaDB
+-- Versi PHP: 8.2.0
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -40,8 +40,22 @@ CREATE TABLE `nasabah` (
 --
 
 INSERT INTO `nasabah` (`nid`, `nama`, `email`, `nohp`, `alamat`) VALUES
-(6998, 'ERGCMY SRROVLEWY', 'nlgweq1905@qqysp.ayq', '081288249826', 'Liikwg'),
-(9655, 'ERGCMY SRROVLEWY', 'nlgweqnmrie@krw.nopgdezkrece.ym.mb', '081288249826', 'Mmzsxsxk');
+(1422, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK'),
+(1910, 'KE FF EB', 'GG BY YE CC CC KE EY', '054846445454', 'DD AB'),
+(3091, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK'),
+(3591, 'KE FF EB', 'GG BY YE CC CC KE EY', '054846445454', 'GG GG'),
+(4766, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK'),
+(4923, 'KE FF EB', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK'),
+(4943, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK'),
+(5282, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG'),
+(5909, 'KE FF EB', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG'),
+(6146, 'KE FF EB', 'GG BY YE CC CC KE EY', '343', 'AB GG'),
+(6528, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK'),
+(7573, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK'),
+(8274, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK'),
+(8534, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG'),
+(8875, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK'),
+(9681, 'BA BA', 'GG BY YE CC CC KE EY', '054846445454', 'AB GG BE BK KY YK');
 
 --
 -- Indexes for dumped tables
